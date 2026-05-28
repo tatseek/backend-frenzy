@@ -1,0 +1,11 @@
+{
+  "/page": "app/page.js",
+  "/api/games/route": "app/api/games/route.js",
+  "/game/[gameId]/page": "app/game/[gameId]/page.js",
+  "/api/games/[gameId]/route": "app/api/games/[gameId]/route.js",
+  "/lobby/page": "app/lobby/page.js",
+  "/api/games/[gameId]/join/route": "app/api/games/[gameId]/join/route.js",
+  "/api/games/[gameId]/start/route": "app/api/games/[gameId]/start/route.js",
+  "/api/games/[gameId]/answer/route": "app/api/games/[gameId]/answer/route.js",
+  "/api/games/[gameId]/next/route": "app/api/games/[gameId]/next/route.js"
+}
